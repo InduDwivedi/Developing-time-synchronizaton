@@ -20,4 +20,7 @@ Hardware Used:
 6)	Raspberry Pi 3 2*20 female header
 
 Block Diagram
+
+
+
 ![BlockDiagram](https://user-images.githubusercontent.com/37904090/150688707-20a04778-0360-41d2-b211-ac25f38e6cc6.jpg)
