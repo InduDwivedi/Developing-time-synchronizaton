@@ -24,3 +24,18 @@ Block Diagram
 
 
 ![BlockDiagram](https://user-images.githubusercontent.com/37904090/150688707-20a04778-0360-41d2-b211-ac25f38e6cc6.jpg)
+
+
+Circuit Diagram
+
+
+![BE2](https://user-images.githubusercontent.com/37904090/150689009-8875a5e3-1a26-4aa9-a76d-b3831069f703.jpg)
+
+
+
+PCB Schematic
+
+
+![BE3](https://user-images.githubusercontent.com/37904090/150689033-bfff685c-7ff0-4a1c-ad2b-7bb63ca30329.jpg)
+
+
