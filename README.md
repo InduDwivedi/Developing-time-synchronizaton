@@ -4,10 +4,11 @@ This project basically implements a model of home automation system which uses r
 Now, the data is stored in the cloud in the form of .csv files which store the temperature in Celsius and Fahrenheit, distance, date and time of observation. The data is read after every second and sent to the cloud. The cloud acts as a local storage for sensor data. The second RPi acts as the client which subscribes to the required data field from the database. At this particular point the various protocols come into play, which interact with the cloud to fetch the data. Two protocols have been used in this project to fetch data which are MQTT and CoAP. Using this helps the cloud to publish data to the client. The displays this data on a terminal which can be the computer display or any display screen. The data can also be displayed on other displays like LCD or TFT displays as well. The data retrieved from the cloud can be further analyzed and processed to perform any required functions like alerting the house owner if the temperature of the surroundings exceeds say 80 0 C. The cloud also provides capability to do data processing using MATLAB. It also shows graph of the sensor data recorded.
 
 Software Used:
-1)Linux
+1)Linux(Ubuntu)
 2)Python
-3)ThingsSpeak
-4)Mongodb
+3) VNC Server
+4)ThingsSpeak Cloud database
+5)Mosquitto MQTT broker
 5)Eagle
 
 Hardware Used:
